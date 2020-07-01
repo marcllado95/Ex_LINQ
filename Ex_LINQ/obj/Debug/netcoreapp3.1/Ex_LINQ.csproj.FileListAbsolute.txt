@@ -1,0 +1,13 @@
+C:\Users\Marc\Desktop\IT Academy\.NET\Ex_LINQ\Ex_LINQ\bin\Debug\netcoreapp3.1\Ex_LINQ.exe
+C:\Users\Marc\Desktop\IT Academy\.NET\Ex_LINQ\Ex_LINQ\bin\Debug\netcoreapp3.1\Ex_LINQ.deps.json
+C:\Users\Marc\Desktop\IT Academy\.NET\Ex_LINQ\Ex_LINQ\bin\Debug\netcoreapp3.1\Ex_LINQ.runtimeconfig.json
+C:\Users\Marc\Desktop\IT Academy\.NET\Ex_LINQ\Ex_LINQ\bin\Debug\netcoreapp3.1\Ex_LINQ.runtimeconfig.dev.json
+C:\Users\Marc\Desktop\IT Academy\.NET\Ex_LINQ\Ex_LINQ\bin\Debug\netcoreapp3.1\Ex_LINQ.dll
+C:\Users\Marc\Desktop\IT Academy\.NET\Ex_LINQ\Ex_LINQ\bin\Debug\netcoreapp3.1\Ex_LINQ.pdb
+C:\Users\Marc\Desktop\IT Academy\.NET\Ex_LINQ\Ex_LINQ\obj\Debug\netcoreapp3.1\Ex_LINQ.csprojAssemblyReference.cache
+C:\Users\Marc\Desktop\IT Academy\.NET\Ex_LINQ\Ex_LINQ\obj\Debug\netcoreapp3.1\Ex_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Desktop\IT Academy\.NET\Ex_LINQ\Ex_LINQ\obj\Debug\netcoreapp3.1\Ex_LINQ.AssemblyInfoInputs.cache
+C:\Users\Marc\Desktop\IT Academy\.NET\Ex_LINQ\Ex_LINQ\obj\Debug\netcoreapp3.1\Ex_LINQ.AssemblyInfo.cs
+C:\Users\Marc\Desktop\IT Academy\.NET\Ex_LINQ\Ex_LINQ\obj\Debug\netcoreapp3.1\Ex_LINQ.dll
+C:\Users\Marc\Desktop\IT Academy\.NET\Ex_LINQ\Ex_LINQ\obj\Debug\netcoreapp3.1\Ex_LINQ.pdb
+C:\Users\Marc\Desktop\IT Academy\.NET\Ex_LINQ\Ex_LINQ\obj\Debug\netcoreapp3.1\Ex_LINQ.genruntimeconfig.cache
